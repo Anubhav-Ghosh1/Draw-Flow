@@ -1,7 +1,7 @@
 # DrawFlow
 
 A hand-drawn whiteboard meets schema-as-code, all rendered in your browser. The server only handles auth — drawings live in `localStorage`.
-
+![Draw-Flow](https://socialify.git.ci/Anubhav-Ghosh1/Draw-Flow/image?description=1&descriptionEditable=&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark)
 ## Features
 
 - **Whiteboard** — sketchy rectangles, ellipses, lines, arrows, free-pen, text and an eraser, with pan/zoom, undo/redo and PNG export. Built on `<canvas>` + [rough.js](https://roughjs.com/).
